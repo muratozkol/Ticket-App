@@ -16,6 +16,5 @@ Bu proje, kullanıcıların sinema bileti rezervasyonu yapmalarını sağlayan b
 - Sayfa yenilendiğinde seçili koltukların geri yüklenmesi
 - Film seçimi ve bilet ücretinin hesaplanması
 
-![Ekran Görüntüsü 1](images/pic.png)
 
 <img src="images/pic.png" alt="Ekran Görüntüsü 1" style="width:50%;">
